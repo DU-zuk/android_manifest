@@ -59,7 +59,7 @@
 
   <!-- frameworks -->
   <project path="frameworks/av" name="android_frameworks_av" remote="du" revision="o8x-caf" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="du-zuk" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="du-zuk" revision="o8x" />
   <project path="frameworks/native" name="android_frameworks_native" remote="du" />
   <project path="frameworks/opt/net/ims" name="android_frameworks_opt_net_ims" remote="du" revision="o8x" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="du" revision="o8x-caf" />
